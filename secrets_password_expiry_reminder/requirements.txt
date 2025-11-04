@@ -1,0 +1,2 @@
+schedule>=1.2
+# Optional: cryptography>=41.0 for encrypted inventories
