@@ -55,5 +55,5 @@ Priv-Projects/ABTP/
 - Ergänze Badges, GIFs oder Screenshots, um die Ergebnisse anschaulich zu machen.
 - Überlege, ob du ein kleines CLI-Menü oder ein Launch-Skript bereitstellst, das alle Tasks auffindbar macht.
 
-Viel Spaß beim Automatisieren – und willkommen zurück auf GitHub!
+
 
